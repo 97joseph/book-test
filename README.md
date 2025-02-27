@@ -5,6 +5,9 @@ A simple Book Review Application where users can:
 - Add a new book.
 - Submit a review for a book.
 - View all reviews for a specific book.
+
+- Kindly note to be able to create a review for a book you have first to create the book then click on it on the screen for the review modal to come for the review . Once you click on the books you are able to see all of the reviews on it if there are any
+- 
 <img width="812" alt="iage1" src="https://github.com/user-attachments/assets/1621f2da-1c7f-458e-8c9b-114c62c6c365" />
 
 
