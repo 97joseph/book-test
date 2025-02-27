@@ -83,7 +83,7 @@ Run the Sequelize migrations to create the necessary tables in the database:
 #### d. Start the Backend Server
 Run the backend server:
 ```bash
-npm start
+node app.js
 ```
 The backend will run on `http://localhost:5000`.
 
