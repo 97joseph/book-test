@@ -75,7 +75,9 @@ npm install
 #### c. Run Migrations
 Run the Sequelize migrations to create the necessary tables in the database:
 ```bash
-npx sequelize-cli db:migrate
+1.npx sequelize-cli db:create
+2.npx sequelize-cli db:migrate
+
 ```
 
 #### d. Start the Backend Server
