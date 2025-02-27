@@ -5,9 +5,9 @@ A simple Book Review Application where users can:
 - Add a new book.
 - Submit a review for a book.
 - View all reviews for a specific book.
-
-<img width="754" alt="image2" src="https://github.com/user-attachments/assets/3551e154-b408-4c60-95e1-0afba327afb2" />
 <img width="812" alt="iage1" src="https://github.com/user-attachments/assets/1621f2da-1c7f-458e-8c9b-114c62c6c365" />
+<img width="754" alt="image2" src="https://github.com/user-attachments/assets/3551e154-b408-4c60-95e1-0afba327afb2" />
+
 
 
 
