@@ -101,6 +101,31 @@ The frontend will run on `http://localhost:3000`.
 
 ---
 
+## **How to Use the Application**
+
+### 1. Add a Book
+- On the homepage, you'll see a form titled "Add a New Book".
+- Enter the Title and Author of the book.
+- Click the "Add Book" button.
+- The new book will appear in the list of books below the form.
+
+### 2. Make a Review
+- In the list of books, click on a book to select it.
+- Below the list of books, you'll see a section titled "Reviews".
+- To add a review:
+  - Enter your Name in the "Your Name" field.
+  - Enter a Rating (between 1 and 5) in the "Rating (1-5)" field.
+  - Write your Review in the "Your Review" textarea.
+  - Click the "Submit Review" button.
+  - Your review will appear in the list of reviews for the selected book.
+
+### 3. View Reviews
+- Select a book from the list.
+- All reviews for the selected book will be displayed below the review submission form.
+- Each review shows the reviewer's name, rating, and comment.
+
+---
+
 ## **Application Features**
 1. **View Books**: Displays a list of books with their titles and authors.
 2. **Add a Book**: Allows users to add a new book via a form.
@@ -151,8 +176,8 @@ Contributions are welcome! If you'd like to contribute, please:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
----
 
+---
 
 ## **Acknowledgments**
 - [Sequelize](https://sequelize.org/) for database management.
