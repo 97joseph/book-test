@@ -7,6 +7,10 @@ A simple Book Review Application where users can:
 - View all reviews for a specific book.
 
 
+![Screenshot (146)](https://github.com/user-attachments/assets/7a0cea8a-2c3e-4729-8752-5f78983468b4)
+![Screenshot (145)](https://github.com/user-attachments/assets/e80c0303-9f0f-4d30-9ebd-7c49d32cad54)
+
+
 
 ---
 
